@@ -18,6 +18,8 @@
 
 ;;
 
+var moment = require('moment-jalaali');
+
 var FC = $.fullCalendar = {
 	version: "3.0.1",
 	internalApiVersion: 6
